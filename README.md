@@ -9,7 +9,7 @@ The sketch communicates with the CC1101 directly over SPI and does not require a
 
 - Receive 24-bit PWM RF signals
 - Transmit arbitrary 24-bit codes
-- Support for the tested Metzler code `0x0D8C78`
+- Support for the Metzler RF codes
 - CC1101 ASK/OOK operation
 - Interrupt-driven RX via `GDO2`
 - Asynchronous TX via `GDO0`
